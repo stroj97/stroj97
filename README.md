@@ -17,4 +17,7 @@ Here are some ideas to get you started:
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stroj97)](https://github.com/anuraghazra/github-readme-stats)-->
 
-<img src="https://new.library.arizona.edu/sites/default/files/styles/featured_image/public/featured_media/rprogramming.png?itok=tW_Lc4a8" width="35" height="20">
+<h3>Used tech
+<br>
+  <img src="https://new.library.arizona.edu/sites/default/files/styles/featured_image/public/featured_media/rprogramming.png?" width="35" height="20" title="R">
+  <img src="https://iconape.com/wp-content/png_logo_vector/tableau-software.png" width="20" height="20" title="Tableau">
