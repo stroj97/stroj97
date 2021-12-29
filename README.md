@@ -17,7 +17,12 @@ Here are some ideas to get you started:
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stroj97)](https://github.com/anuraghazra/github-readme-stats)-->
 
-<h3>Used tech
-<br>
-  <img src="https://new.library.arizona.edu/sites/default/files/styles/featured_image/public/featured_media/rprogramming.png?" width="35" height="20" title="R">
-  <img src="https://iconape.com/wp-content/png_logo_vector/tableau-software.png" width="20" height="20" title="Tableau">
+<center><h1>Hi</h1</center>
+
+![](https://komarev.com/ghpvc/?username=stroj97&style=flat-square&label=Views&color=lightgrey)
+
+  <h3>Used tech</h3>
+    <div>
+      <img src="https://new.library.arizona.edu/sites/default/files/styles/featured_image/public/featured_media/rprogramming.png?" width="35" height="20" title="R">
+      <img src="https://iconape.com/wp-content/png_logo_vector/tableau-software.png" width="20" height="20" title="Tableau">
+    </div>
